@@ -10,6 +10,7 @@
 * Chinese 
 
 *Links to my group repositories*
-1. 
+1. [Nathan Santos](https://github.com/EPHS-Cybersecurity-Hour1/fuzzy-octo-sniffle.git)
+2. [Sam Adkins](https://github.com/SamA2301/fantastic-octo-succotash.git)
 
 ![Science](https://scijinks.gov/science/science-03.png)
